@@ -1,2 +1,2 @@
-# crossfit-documentation
- crossfit-documentation
+# MJFIT-documentation
+MJFIT-documentation
